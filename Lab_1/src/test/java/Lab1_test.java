@@ -3,7 +3,7 @@ import org.junit.Test;
 
 import java.util.ArrayList;
 
-public class Test_test {
+public class Lab1_test {
 
     @Test
     public void Task_2(){
